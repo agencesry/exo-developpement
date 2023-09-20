@@ -1,0 +1,33 @@
+article{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(94, 94, 243);
+}
+article > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+article > img {
+    width: 20%;
+    height: 10%;
+}
+ul, p {
+    background-color: #C9DCDA;
+}
+.paragraphe2{
+    background-color: red;
+    font-weight: bold;
+}
+
+.btn {
+    border-style: solid;
+    border-color: rgb(102, 171, 232);
+    background-color: rgb(102, 171, 232);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: blue;
+}

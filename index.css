@@ -1,0 +1,22 @@
+
+th, td {
+    border: solid;
+    border-width: 3px;
+    border-color:tomato;
+    background-color: rgb(251, 232, 165);
+    color: rgb(232, 152, 115);
+    border-radius: 5px;
+    text-align: center;
+}
+.btn {
+    border-style: solid;
+    border-color: rgb(102, 171, 232);
+    background-color: rgb(102, 171, 232);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: blue;
+}
